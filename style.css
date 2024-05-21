@@ -1,0 +1,166 @@
+*{margin: 0;
+    font-family: Arial, Helvetica, sans-serif ;
+    border: border-box;
+}
+.nav{
+    height: 60px;
+         background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.navlogo{
+    width:100px;
+    height:50px;
+}
+
+.logo{
+    background-image :url("amazon_logo.png");
+    height: 50px;
+    background-size:cover;
+    width:100%;
+    cursor:pointer;
+}
+.border{
+    border: 1px solid transparent;
+}
+.border :hover{
+    border : 1px solid white;
+}
+.deliver{
+    color: #CCCCCC;
+    font-size: 0.7em;
+    margin-left: 13px;
+}
+.india{
+    color:#ffffff;
+    margin-left:40;
+    font-size:1em ;
+}
+.icon{
+     display:flex;
+    align-items: center;
+}
+.all{
+    width: 60px;
+    height: 45px;
+    box-sizing: border-box;
+    margin-left:4px ;
+    border: none;
+}
+.searchbar{
+    width: 620px;
+    height: 40px;
+    font-size: 1em;
+    justify-content:space-evenly;
+    
+}
+.search{
+    display: flex; 
+}
+.searchicon{
+    background-color: orange;
+    width:50px;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 1.5em;
+    display: flex;
+}
+.signin{
+    margin-left:30px;
+}
+.order{
+    margin-left:30px;
+}
+.first{
+    font-size:1em ;
+}
+.cart{
+    
+    align-items: center; ;
+    width:50px;
+    margin-left:50px ;
+}
+.panel{
+    height:30px;
+    background-color: #23263c;
+    display:flex;
+    color:white;
+}
+.baricon{
+    margin-left: 20px;
+    margin-right: 20px;}
+
+.opt{
+    display:flex;
+}
+.oneplus{
+    background-image: url("61xJkbCCroL._SX3000_.jpg");
+    background-size: cover;
+    height: 400px;
+}
+.boxes{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:rgb(183, 224, 142) ;
+    height: 350px;}
+
+.box{
+    height: 300px;
+    width: 23%;
+    border:5px solid black;
+    background-color: #ffffff;
+}
+.boximage1{
+    background-image: url("71TLBunkLeL._AC_SY220_.jpg");
+    background-size:cover ;
+    height: 230px;
+    
+}
+.boximage2{
+    background-image: url("WF4-372-232._SY232_CB636048992_.jpg");
+    background-size:cover ;
+    height: 230px;
+    
+}
+.boximage3{
+    background-image: url("41QfdT1CUzL._AC_UL480_FMwebp_QL65_.webp");
+    background-size:cover ;
+    height: 230px;
+    
+}
+.boximage4{
+    background-image: url("PC_QC_372_BAU_2._SY232_CB558389344_.jpg");
+    background-size:cover ;
+    height: 230px;
+    
+}
+.backtotop{
+    background-color: #23263c;
+    height:30px ;
+    color:#CCCCCC;
+    text-align: center;
+
+}
+.extra{
+   background-color: #020b20; 
+   display: flex;
+   color:white;
+   height:200px;
+}
+.sec1{
+    height:150px;
+    Width:25%;
+}
+.sec2{
+    height:150px;
+    Width:25%;
+}
+.sec3{
+    height:150px;
+    Width:25%;
+}
+.sec4{
+    height:150px;
+    Width:25%;
+}
